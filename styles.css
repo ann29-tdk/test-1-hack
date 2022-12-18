@@ -141,13 +141,14 @@ font-weight: bolder;
     font-size: 55px;
     color: ##181D31;
     font-weight: bold;
+    color: #181D31;
 
   }
   .progress-bar{
     border: 1px solid #324D5D;
   }
   .progress-bar-fill{
-    background-color: aquamarine;
+    background-color: #D0B8A8;
     width: 0%;
     height: 25px;
   }
