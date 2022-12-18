@@ -165,12 +165,12 @@ font-weight: bolder;
 
   }
   #filename-text{
-    color: yellowgreen;
+    color: #1A120B;
   }
   msglist>a{
   font-size: 10px;
 text-decoration: none;
-color: lightcoral;
+color: #1A120B;
 display: block;
   }
   msglist{
